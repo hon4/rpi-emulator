@@ -1,4 +1,4 @@
 # Raspberry Pi Emulator for Windows
 
 ## Downloads
-https://rpi-emulator.sourceforge.io/
+[RPi Emulator Website](https://rpi-emulator.sourceforge.io/)
