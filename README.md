@@ -6,4 +6,5 @@ Rpaspberry Pi Emulator a.k.a. RPi Emulator is designed to easily emulate an Rasp
 + [RPi Emulator SourceForge](https://sourceforge.net/projects/rpi-emulator/)
 
 ## Minimum Requirements
++ Windows OS
 + .NET Framework 2.0
